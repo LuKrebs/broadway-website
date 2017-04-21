@@ -2,8 +2,8 @@
 
 <p>If you want get more information about how do it, you'll find <a href="https://css-tricks.com/perfect-full-page-background-image/">here</a>.</p>
 
-<p> You can see it working in my <a href="http://codepen.io/LuKrebs/pen/full/jBeaPx">Codepen Profile</a>.<p>
+<p> You can see it working in my <a href="http://codepen.io/LuKrebs/full/jBeaPx/">Codepen Profile</a>.<p>
 
 <p>Here's an image that give an idea about what this project looks like :</p>
 
-<a href="http://codepen.io/LuKrebs/pen/full/jBeaPx"><img src="img/broadway.png"></a>
+<a href="http://codepen.io/LuKrebs/full/jBeaPx/"><img src="img/broadway.png"></a>
